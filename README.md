@@ -11,7 +11,11 @@ A lightweight, customizable, and reusable **Star Rating Component** built with H
 - Easy-to-use and customizable.
 - Supports dynamic interaction for selecting ratings.
 - Includes hover and click functionality for smooth user experience.
-- Reusable for multiple use cases.
+- Reusable for multiple use cases.# My Website
+
+Welcome to my website hosted on GitHub Pages! 🎉
+
+👉 **[View the Live Website Here](https://anujshahmnnit.github.io/star-rating-component/)** 👈
 
 ---
 
