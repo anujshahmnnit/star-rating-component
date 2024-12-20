@@ -13,7 +13,7 @@ container.addEventListener("click", function (e) {
         star[i].classList.add("star-filled");
     }
 
-    document.getElementById("count").innerText = `Rating cound: ${currClicked}`;
+    document.getElementById("count").innerText = `Rating count: ${currClicked}`;
     filled = currClicked;
 });
 
