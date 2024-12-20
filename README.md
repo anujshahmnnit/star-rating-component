@@ -17,11 +17,6 @@ Welcome to my website hosted on GitHub Pages! 🎉
 
 👉 **[View the Live Website Here](https://anujshahmnnit.github.io/star-rating-component/)** 👈
 
----
-
-## Demo
-
-Check out the live demo here: [](#) *(Replace with a live link if available)*
 
 ---
 
