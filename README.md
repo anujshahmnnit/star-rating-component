@@ -17,7 +17,7 @@ A lightweight, customizable, and reusable **Star Rating Component** built with H
 
 ## Demo
 
-Check out the live demo here: [Star Rating Component Demo](#) *(Replace with a live link if available)*
+Check out the live demo here: [](#) *(Replace with a live link if available)*
 
 ---
 
@@ -86,7 +86,8 @@ star-rating-component/
 ## Screenshots
 
 ### Default View:
-*(Add a screenshot here if possible)*
+*(![image](https://github.com/user-attachments/assets/df00d2e1-fb28-4001-a33a-9f0cbbe89d76)
+)*
 
 ---
 
