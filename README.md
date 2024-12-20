@@ -86,8 +86,8 @@ star-rating-component/
 ## Screenshots
 
 ### Default View:
-*(![image](https://github.com/user-attachments/assets/df00d2e1-fb28-4001-a33a-9f0cbbe89d76)
-)*
+![image](https://github.com/user-attachments/assets/635e8a41-cfd1-49c0-aec8-338ef3e783c3)
+
 
 ---
 
